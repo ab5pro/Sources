@@ -20,8 +20,7 @@
         "node-fetch": "^2.6.9",
         "random-unicode-emoji": "^1.0.2",
         "sequelize": "^6.29.3",
-        "socket.io-client": "^4.6.1",
-        "typescript": "^4.9.5"
+        "socket.io-client": "^4.6.1"
     },
     "devDependencies": {
         "@types/node-fetch": "^2.6.2"
